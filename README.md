@@ -1,8 +1,9 @@
                               ### Hi there 👋 I'm Vinod Phalke.
 
 - 🔭 Full Stack Developer in Java
-- 🌱 Improve a exist knowledge
-- 😄 Vinod
+- 🌱 I’m currently learning: Improve a exist knowledge
+- 📫 How to reach me: vinodcphalke@gmail.com
+- 😄 Pronouns: Vinod
 - ⚡ I am funny
 
 My Tech Stack Involves React.Js, JavaScript, MongoDB, Express.Js, Node.Js, HTML, CSS, Data Structures & Algorithms, MySQL etc.
