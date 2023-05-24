@@ -4,6 +4,7 @@
 - 🔭 I'm currently working on: Full Stack Developer in Java
 - 🌱 I’m currently learning: Improve a exist knowledge
 - 📫 How to reach me: vinodcphalke@gmail.com
+                       [https://www.linkedin.com/in/vinod-phalke-3a31b9234?](https://www.linkedin.com/in/vinod-phalke-3a31b9234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bco0goTaBQ5ukK4LB413Gyg%3D%3D)
 - 😄 Pronouns: Vinod
 - ⚡ Fun fact: I am funny
 
