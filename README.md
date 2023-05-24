@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinod Phalke</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-
-<img align="right" alt="coding" width="400" src="https://cdn.wallpapersafari.com/42/88/9ynmFP.gif"
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fmoving-binary-code-wallpaper%2F&psig=AOvVaw3jK8ukNine28UoTrD9MUsV&ust=1685007567921000&source=images&cd=vfe&ved=2ahUKEwiQgsG91I3_AhUubmwGHbPGC5gQjRx6BAgAEAw"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodphalke&label=Profile%20views&color=0e75b6&style=flat" alt="vinodphalke" /> </p>
 
@@ -31,19 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinodphalke&show_icons=true&locale=en" alt="vinodphalke" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinodphalke&" alt="vinodphalke" /></p>
-
-
-<!--
-**VinodPhalke/VinodPhalke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
