@@ -1,11 +1,11 @@
-                              ### Hi there 👋 I'm Vinod.
+                              Hi there 👋 I'm Vinod.
                               I love to building utilities aimed at increasing Developer productivity 
 
-- 🔭 Full Stack Developer in Java
+- 🔭 I'm currently working on: Full Stack Developer in Java
 - 🌱 I’m currently learning: Improve a exist knowledge
 - 📫 How to reach me: vinodcphalke@gmail.com
 - 😄 Pronouns: Vinod
-- ⚡ I am funny
+- ⚡ Fun fact: I am funny
 
 My Tech Stack Involves React.Js, JavaScript, MongoDB, Express.Js, Node.Js, HTML, CSS, Data Structures & Algorithms, MySQL etc.
 
@@ -15,12 +15,12 @@ My Tech Stack Involves React.Js, JavaScript, MongoDB, Express.Js, Node.Js, HTML,
 
 Here are some ideas to get you started:
 
-- 🔭 Full Stack Developer in Java
+- 🔭 I'm currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ I am funny
+- ⚡ Fun fact: ...
 -->
