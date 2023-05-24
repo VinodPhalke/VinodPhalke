@@ -7,7 +7,7 @@
 
 My Tech Stack Involves React.Js, JavaScript, MongoDB, Express.Js, Node.Js, HTML, CSS, Data Structures & Algorithms, MySQL etc.
 
-https://github.com/aminawinti#tech-stack
+
 <!--
 **VinodPhalke/VinodPhalke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
