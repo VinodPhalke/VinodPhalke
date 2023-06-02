@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vinod Phalke</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-<!-- <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fmoving-binary-code-wallpaper%2F&psig=AOvVaw3jK8ukNine28UoTrD9MUsV&ust=1685007567921000&source=images&cd=vfe&ved=2ahUKEwiQgsG91I3_AhUubmwGHbPGC5gQjRx6BAgAEAw" -->
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fmoving-binary-code-wallpaper%2F&psig=AOvVaw3jK8ukNine28UoTrD9MUsV&ust=1685007567921000&source=images&cd=vfe&ved=2ahUKEwiQgsG91I3_AhUubmwGHbPGC5gQjRx6BAgAEAw"
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodphalke&label=Profile%20views&color=0e75b6&style=flat" alt="vinodphalke" /> </p> -->
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinodphalke" alt="vinodphalke" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinodphalke" alt="vinodphalke" /></a> </p>
 
 - 📫 How to reach me **vinodcphalke@gmail.com**
 
