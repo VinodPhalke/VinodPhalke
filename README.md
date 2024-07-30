@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vinod</h1>
+<h1 align="center">Hi 👋, I'm Vinod Phalke</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <!-- <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fmoving-binary-code-wallpaper%2F&psig=AOvVaw3jK8ukNine28UoTrD9MUsV&ust=1685007567921000&source=images&cd=vfe&ved=2ahUKEwiQgsG91I3_AhUubmwGHbPGC5gQjRx6BAgAEAw"/> -->
+
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fmoving-binary-code-wallpaper%2F&psig=AOvVaw3jK8ukNine28UoTrD9MUsV&ust=1685007567921000&source=images&cd=vfe&ved=2ahUKEwiQgsG91I3_AhUubmwGHbPGC5gQjRx6BAgAEAw"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodphalke&label=Profile%20views&color=0e75b6&style=flat" alt="vinodphalke" /> </p>
 
@@ -30,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinodphalke&" alt="vinodphalke" /></p>
 
-<!-- <p><a href="https://www.buymeacoffee.com/vinodcphalke"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vinodcphalke" /></a></p><br><br> -->
+<p><a href="https://www.buymeacoffee.com/vinodcphalke"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vinodcphalke" /></a></p><br><br>
