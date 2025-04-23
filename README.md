@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinod Phalke</h1>
+<h1 align="center">Hi 👋, I'm Vinod</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <!-- <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fmoving-binary-code-wallpaper%2F&psig=AOvVaw3jK8ukNine28UoTrD9MUsV&ust=1685007567921000&source=images&cd=vfe&ved=2ahUKEwiQgsG91I3_AhUubmwGHbPGC5gQjRx6BAgAEAw"/> -->
